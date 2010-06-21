@@ -1,0 +1,20 @@
+ShowForStonewall
+================
+
+Connect Stonewall with ShowFor to limit the display of attributes.
+See http://github.com/bokmann/stonewall and http://github.com/plataformatec/show_for for details about each project.
+
+
+Example
+=======
+
+Use it.
+
+
+Requiremnts
+===========
+
+It currently assumes that you have current_user helper method in your controllers
+
+
+Copyright (c) 2010 Jim Gay / Saturn Flyer, LLC, released under the MIT license
